@@ -125,7 +125,16 @@ dogscats  dogscats.zip
 CODE-OF-CONDUCT.md  courses  environment.yml  fastai  LICENSE  MANIFEST  MANIFEST.in  README.md  README.rst  requirements.txt  setup.cfg  setup.py  tutorials
 (fastai) paperspace@psgyqmt1m:~$
 ```
-
+### change your login password
+- <kbd> passwd </kbd> allows you to change the login password to something you can remember
+```bash
+(fastai) paperspace@psgyqmt1m:~$ passwd
+Changing password for paperspace.
+(current) UNIX password: 
+Enter new UNIX password: 
+Retype new UNIX password: 
+Password changed successfully.
+```
 ## :red_circle: Part III:  Updating fastai repo contents
 * :key:  this step is important as having updated content and libraries can bypass errors
 
